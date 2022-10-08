@@ -1,3 +1,2 @@
 boss, dzhang357, Zhang, Duohan
-emplyee,NetID,LastName,FirstName
 employee,zcao85,Cao,Zheming
