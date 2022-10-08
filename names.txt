@@ -1,2 +1,3 @@
 role, NetID, LastName, FirstName
 boss, dzhang357, Zhang, Duohan
+employee, duohan0520, Zhang, Duohan
